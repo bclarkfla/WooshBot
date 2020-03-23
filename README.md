@@ -5,8 +5,8 @@ It requires the Python Reddit API Wrapper (PRAW) be imported. [It can be found h
 
 [Keep up to date with Woosh here.](https://www.reddit.com/user/HelloImWoosh)
 
-[Original Woosh sketch.]()
+[Original Woosh sketch.](https://www.youtube.com/watch?v=T-ZojGkYd0E)
 
-[Generic Birthday version the bot posts.]()
+[Generic version the bot posts.](https://www.youtube.com/watch?v=Y6JnYnA9Tzo)
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
